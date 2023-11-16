@@ -27,26 +27,19 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔸 **My Name:** [FileStore Bot](https://t.me/{BOT_USERNAME})
 │
-├🔸 **Language:** [Python 3](https://www.python.org)
+├🔸 **Developer:** [Predator HackerzZ](https://t.me/Sid_o_p) 
 │
-├🔹 **Library:** [Pyrogram](https://docs.pyrogram.org)
+├🔹 **Bot Support:** [Support Group](https://t.me/Movies_x_store)
 │
-├🔹 **Hosted On:** [Heroku](https://heroku.com)
-│
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
-│
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
-│
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/Movie_without_verify)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [SiD](https://t.me/sid_o_p)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/DonateXrobot) or ```MrAbhi2k3@apl```
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
